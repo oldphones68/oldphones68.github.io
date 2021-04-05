@@ -1,1 +1,2 @@
+# Contact
 You can contact with us at user@example.com
